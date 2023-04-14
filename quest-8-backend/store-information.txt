@@ -1,4 +1,4 @@
-smart contract address:
-fungible token address:
-NFT address:
-topic id:git
+smart contract address: 0xcB1a464Ac62057085023aEE2270897b0BA753A6b
+fungible token address: 0x00000000000000000000000000000000003Ec30F
+NFT address: 0x00000000000000000000000000000000003Ecbb8
+topic id: 0.0.4115933
